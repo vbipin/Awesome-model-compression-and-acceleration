@@ -1,3 +1,9 @@
+
+Bipin
+Added ppt about model compression.
+
+
+
 # Awesome-model-compression-and-acceleration
 
 Some papers I collected and deemed to be great to read, which is also what I'm about to read, raise a PR or issue if you have any suggestion regarding the list, Thank you.
